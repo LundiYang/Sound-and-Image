@@ -49,3 +49,18 @@ graph.add_edge(2, 3)
 print(graph.adj_list)  # {1: [2], 2: [1, 3], 3: [2]}
 
 
+week 3
+# Initialize a Git repository
+git init
+
+# Add all files to staging
+git add .
+
+# Commit the changes
+git commit -m "Initial commit with priority queue and graph implementations"
+
+# Link your local repository to GitHub
+git remote add origin https://github.com/yourusername/Graph-PriorityQueue.git
+
+# Push to GitHub
+git push -u origin master
