@@ -47,3 +47,5 @@ graph = Graph()
 graph.add_edge(1, 2)
 graph.add_edge(2, 3)
 print(graph.adj_list)  # {1: [2], 2: [1, 3], 3: [2]}
+
+
